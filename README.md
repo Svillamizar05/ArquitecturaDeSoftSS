@@ -1,2 +1,0 @@
-# ArquitecturaDeSoftSS
-Repositorio de clase
